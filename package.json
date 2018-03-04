@@ -1,0 +1,19 @@
+{
+  "name": "arrayobjectsearch",
+  "version": "0.0.1",
+  "description": "This javascript library/module is aimed at making some very common and time consuming tasks easier so you can focus on your logic.\r This is something you usually do in your utils file.\r Many libraries like underscore already do this but this is my initiative so you don't need to imports those complete libraries to perform those few very common tasks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan5/array-tools.git"
+  },
+  "author": "rohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan5/array-tools/issues"
+  },
+  "homepage": "https://github.com/rohan5/array-tools#readme"
+}
